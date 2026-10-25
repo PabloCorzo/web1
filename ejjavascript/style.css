@@ -1,0 +1,74 @@
+body {
+  padding-top: 4.5rem;
+}
+
+#result {
+  overflow-x:scroll;
+  padding-bottom: 10px;
+}
+
+.container_form {
+  max-width: 420px;
+  margin: 2rem auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(17, 24, 39, 0.08);
+}
+
+.input_item {
+  padding: 0.7rem 0.9rem;
+  background: #f9fafb;
+  border: 1px solid #d1d5db;
+  border-radius: 10px;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.input_item:focus {
+  border-color: #4f46e5;
+  background: #fff;
+  box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.18);
+}
+
+.check_item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+}
+
+.check_item input {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 1.5px solid #d1d5db;
+  border-radius: 6px;
+  background: #f9fafb;
+  display: grid;
+  place-content: center;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.check_item input::after {
+  content: "";
+  width: 5px;
+  height: 10px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg) scale(0);
+  margin-top: -2px;
+  transition: transform 0.12s;
+}
+
+.check_item input:checked {
+  background: #4f46e5;
+  border-color: #4f46e5;
+}
+
+.check_item input:checked::after {
+  transform: rotate(45deg) scale(1);
+}

@@ -1,0 +1,13 @@
+#game {
+  display: block;
+  margin-left: 25%;
+} 
+
+#game_starter {
+  height: 4rem;
+  width: 10rem;
+  border-radius: 25px;
+  margin-left: 41%;
+  background-color: sienna;
+  color: white;
+}

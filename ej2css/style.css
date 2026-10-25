@@ -1,0 +1,105 @@
+/* ===== Base ===== */
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+  color: #2b2b2b;
+  background-color: #fafafa;
+}
+
+a {
+  color: blueviolet;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a.basiclink {
+  background-color: darkkhaki;
+  color: #111;
+  padding: 1%;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+
+/* a:hover { */
+/*   border-bottom-color: pink; */
+/* } */
+
+h1 {
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin-top: 50px;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 8px;
+}
+
+p {
+  color: #444;
+}
+
+p.intro {
+
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  display: block;
+  align-self: center;
+  text-align: center;
+}
+
+p.tabletitle {
+
+  display: block;
+  text-align: center;
+  font-weight: bolder;
+}
+
+/* ===== Table ===== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.95rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 10px 16px;
+  text-align: left;
+}
+
+th {
+  background-color: #111;
+  color: #fdd;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+tr:nth-child(even) td {
+  background-color: #f2f5fa;
+}
+
+tr:hover td {
+  background-color: #e4ecfb;
+  transition: background-color 0.2s ease;
+}
+
+/* ===== Image hover enlarge ===== */
+img {
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: block;
+}
+
+img:hover {
+  transform: scale(1.15);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
