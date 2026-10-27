@@ -1,0 +1,607 @@
+[
+  {
+    "timestamp": "2026-10-27T13:46:02.720Z",
+    "players": [
+      {
+        "rank": 1,
+        "username": "Hikaru",
+        "title": "GM",
+        "score": 3463
+      },
+      {
+        "rank": 2,
+        "username": "MagnusCarlsen",
+        "title": "GM",
+        "score": 3407
+      },
+      {
+        "rank": 3,
+        "username": "nihalsarin",
+        "title": "GM",
+        "score": 3368
+      },
+      {
+        "rank": 4,
+        "username": "gurelediz",
+        "title": "GM",
+        "score": 3353
+      },
+      {
+        "rank": 5,
+        "username": "FairChess_on_YouTube",
+        "title": "GM",
+        "score": 3327
+      },
+      {
+        "rank": 6,
+        "username": "Sina-Movahed",
+        "title": "GM",
+        "score": 3314
+      },
+      {
+        "rank": 7,
+        "username": "GMWSO",
+        "title": "GM",
+        "score": 3314
+      },
+      {
+        "rank": 8,
+        "username": "Polish_fighter3000",
+        "title": "GM",
+        "score": 3312
+      },
+      {
+        "rank": 9,
+        "username": "mishanick",
+        "title": "GM",
+        "score": 3307
+      },
+      {
+        "rank": 10,
+        "username": "DenLaz",
+        "title": "GM",
+        "score": 3299
+      },
+      {
+        "rank": 11,
+        "username": "LyonBeast",
+        "title": "GM",
+        "score": 3295
+      },
+      {
+        "rank": 12,
+        "username": "Firouzja2003",
+        "title": "GM",
+        "score": 3287
+      },
+      {
+        "rank": 13,
+        "username": "Konavets",
+        "title": "GM",
+        "score": 3285
+      },
+      {
+        "rank": 14,
+        "username": "ChessWarrior7197",
+        "title": "GM",
+        "score": 3285
+      },
+      {
+        "rank": 15,
+        "username": "FaustinoOro",
+        "title": "GM",
+        "score": 3281
+      },
+      {
+        "rank": 16,
+        "username": "wonderfultime",
+        "title": "GM",
+        "score": 3272
+      },
+      {
+        "rank": 17,
+        "username": "legendisback1",
+        "title": "GM",
+        "score": 3268
+      },
+      {
+        "rank": 18,
+        "username": "Parhamov",
+        "title": "GM",
+        "score": 3262
+      },
+      {
+        "rank": 19,
+        "username": "vi_pranav",
+        "title": "GM",
+        "score": 3260
+      },
+      {
+        "rank": 20,
+        "username": "HansOnTwitch",
+        "title": "GM",
+        "score": 3260
+      },
+      {
+        "rank": 21,
+        "username": "VincentKeymer",
+        "title": "GM",
+        "score": 3259
+      },
+      {
+        "rank": 22,
+        "username": "Sibelephant",
+        "title": "GM",
+        "score": 3259
+      },
+      {
+        "rank": 23,
+        "username": "MichaelRoiz",
+        "title": "GM",
+        "score": 3254
+      },
+      {
+        "rank": 24,
+        "username": "rpragchess",
+        "title": "GM",
+        "score": 3252
+      },
+      {
+        "rank": 25,
+        "username": "BillieKimbah",
+        "title": "GM",
+        "score": 3252
+      },
+      {
+        "rank": 26,
+        "username": "Grischuk",
+        "title": "GM",
+        "score": 3249
+      },
+      {
+        "rank": 27,
+        "username": "Micki-taryan",
+        "title": "GM",
+        "score": 3239
+      },
+      {
+        "rank": 28,
+        "username": "TRadjabov",
+        "title": "GM",
+        "score": 3239
+      },
+      {
+        "rank": 29,
+        "username": "PursuitOfHappyness2",
+        "title": "GM",
+        "score": 3235
+      },
+      {
+        "rank": 30,
+        "username": "dropstoneDP",
+        "title": "GM",
+        "score": 3232
+      },
+      {
+        "rank": 31,
+        "username": "jefferyx",
+        "title": "GM",
+        "score": 3231
+      },
+      {
+        "rank": 32,
+        "username": "Andreikka",
+        "title": "GM",
+        "score": 3230
+      },
+      {
+        "rank": 33,
+        "username": "artooon",
+        "title": "GM",
+        "score": 3228
+      },
+      {
+        "rank": 34,
+        "username": "sokidze",
+        "title": "GM",
+        "score": 3219
+      },
+      {
+        "rank": 35,
+        "username": "chess_master_8820",
+        "title": "IM",
+        "score": 3218
+      },
+      {
+        "rank": 36,
+        "username": "Harmonized_kakophonia",
+        "title": "IM",
+        "score": 3212
+      },
+      {
+        "rank": 37,
+        "username": "ChristopherYoo",
+        "title": "GM",
+        "score": 3209
+      },
+      {
+        "rank": 38,
+        "username": "LiemLe",
+        "title": "GM",
+        "score": 3209
+      },
+      {
+        "rank": 39,
+        "username": "rednova1729",
+        "title": "GM",
+        "score": 3208
+      },
+      {
+        "rank": 40,
+        "username": "Salem-AR",
+        "title": "GM",
+        "score": 3207
+      },
+      {
+        "rank": 41,
+        "username": "Msb2",
+        "title": "GM",
+        "score": 3207
+      },
+      {
+        "rank": 42,
+        "username": "FabianoCaruana",
+        "title": "GM",
+        "score": 3206
+      },
+      {
+        "rank": 43,
+        "username": "Oleksandr_Bortnyk",
+        "title": "GM",
+        "score": 3204
+      },
+      {
+        "rank": 44,
+        "username": "Zhigalko_Sergei",
+        "title": "GM",
+        "score": 3204
+      },
+      {
+        "rank": 45,
+        "username": "ManuDavid2910",
+        "title": "FM",
+        "score": 3203
+      },
+      {
+        "rank": 46,
+        "username": "Fedoseev-Vladimir",
+        "title": "GM",
+        "score": 3203
+      },
+      {
+        "rank": 47,
+        "username": "GroovyKettle",
+        "title": "GM",
+        "score": 3201
+      },
+      {
+        "rank": 48,
+        "username": "GMBrewChess",
+        "title": "GM",
+        "score": 3201
+      },
+      {
+        "rank": 49,
+        "username": "jlucasvf",
+        "title": "GM",
+        "score": 3201
+      },
+      {
+        "rank": 50,
+        "username": "IMaster_01",
+        "title": "IM",
+        "score": 3199
+      },
+      {
+        "rank": 51,
+        "username": "GHANDEEVAM2003",
+        "title": "GM",
+        "score": 3198
+      },
+      {
+        "rank": 52,
+        "username": "frederiksvane",
+        "title": "GM",
+        "score": 3195
+      },
+      {
+        "rank": 53,
+        "username": "lachesisQ",
+        "title": "GM",
+        "score": 3195
+      },
+      {
+        "rank": 54,
+        "username": "NikoTheodorou",
+        "title": "GM",
+        "score": 3190
+      },
+      {
+        "rank": 55,
+        "username": "bubeliang",
+        "title": "IM",
+        "score": 3189
+      },
+      {
+        "rank": 56,
+        "username": "Rud_Makarian",
+        "title": "GM",
+        "score": 3187
+      },
+      {
+        "rank": 57,
+        "username": "Vaathi_Coming",
+        "title": "GM",
+        "score": 3187
+      },
+      {
+        "rank": 58,
+        "username": "GMharikrishna",
+        "title": "GM",
+        "score": 3185
+      },
+      {
+        "rank": 59,
+        "username": "MITerryble",
+        "title": "IM",
+        "score": 3182
+      },
+      {
+        "rank": 60,
+        "username": "crescentmoon2411",
+        "title": "GM",
+        "score": 3181
+      },
+      {
+        "rank": 61,
+        "username": "spicycaterpillar",
+        "title": "GM",
+        "score": 3179
+      },
+      {
+        "rank": 62,
+        "username": "Njal28",
+        "title": "GM",
+        "score": 3177
+      },
+      {
+        "rank": 63,
+        "username": "artin10862",
+        "title": "FM",
+        "score": 3175
+      },
+      {
+        "rank": 64,
+        "username": "Volodar_Murzin",
+        "title": "GM",
+        "score": 3175
+      },
+      {
+        "rank": 65,
+        "username": "Sargsyan_Shant",
+        "title": "GM",
+        "score": 3170
+      },
+      {
+        "rank": 66,
+        "username": "joppie2",
+        "title": "GM",
+        "score": 3169
+      },
+      {
+        "rank": 67,
+        "username": "Duhless",
+        "title": "GM",
+        "score": 3169
+      },
+      {
+        "rank": 68,
+        "username": "Robert_Chessmood",
+        "title": "GM",
+        "score": 3166
+      },
+      {
+        "rank": 69,
+        "username": "Dolphin_2010",
+        "title": "IM",
+        "score": 3159
+      },
+      {
+        "rank": 70,
+        "username": "LPSupi",
+        "title": "GM",
+        "score": 3158
+      },
+      {
+        "rank": 71,
+        "username": "RaunakSadhwani2005",
+        "title": "GM",
+        "score": 3157
+      },
+      {
+        "rank": 72,
+        "username": "LastGladiator1",
+        "title": "GM",
+        "score": 3155
+      },
+      {
+        "rank": 73,
+        "username": "Twitch_ElhamBlitz05",
+        "title": "GM",
+        "score": 3154
+      },
+      {
+        "rank": 74,
+        "username": "xiaotong2008",
+        "title": "GM",
+        "score": 3154
+      },
+      {
+        "rank": 75,
+        "username": "FREDERICKtheMATE",
+        "title": "IM",
+        "score": 3153
+      },
+      {
+        "rank": 76,
+        "username": "Dr_Tyger",
+        "title": "GM",
+        "score": 3153
+      },
+      {
+        "rank": 77,
+        "username": "LiamPutnam2008",
+        "title": "GM",
+        "score": 3152
+      },
+      {
+        "rank": 78,
+        "username": "Vladimir_Zakhartsov",
+        "title": "GM",
+        "score": 3152
+      },
+      {
+        "rank": 79,
+        "username": "Baag4Life",
+        "title": "IM",
+        "score": 3151
+      },
+      {
+        "rank": 80,
+        "username": "Philippians46",
+        "title": "GM",
+        "score": 3151
+      },
+      {
+        "rank": 81,
+        "username": "SGchess01",
+        "title": "GM",
+        "score": 3150
+      },
+      {
+        "rank": 82,
+        "username": "BogdanDeac",
+        "title": "GM",
+        "score": 3150
+      },
+      {
+        "rank": 83,
+        "username": "Zhuu96",
+        "title": "GM",
+        "score": 3150
+      },
+      {
+        "rank": 84,
+        "username": "Indianlad",
+        "title": "GM",
+        "score": 3149
+      },
+      {
+        "rank": 85,
+        "username": "sergoy",
+        "title": "GM",
+        "score": 3149
+      },
+      {
+        "rank": 86,
+        "username": "Funo09",
+        "title": "GM",
+        "score": 3148
+      },
+      {
+        "rank": 87,
+        "username": "Fabsid",
+        "title": "GM",
+        "score": 3146
+      },
+      {
+        "rank": 88,
+        "username": "NikFil2013",
+        "title": "FM",
+        "score": 3146
+      },
+      {
+        "rank": 89,
+        "username": "hansen",
+        "title": "GM",
+        "score": 3145
+      },
+      {
+        "rank": 90,
+        "username": "rezamahdavi2008",
+        "title": "IM",
+        "score": 3144
+      },
+      {
+        "rank": 91,
+        "username": "LOVEVAE",
+        "title": "GM",
+        "score": 3143
+      },
+      {
+        "rank": 92,
+        "username": "Antipov_Mikhail_Al",
+        "title": "GM",
+        "score": 3142
+      },
+      {
+        "rank": 93,
+        "username": "Ga_R",
+        "title": "FM",
+        "score": 3142
+      },
+      {
+        "rank": 94,
+        "username": "Savva_KraSavva",
+        "title": "GM",
+        "score": 3141
+      },
+      {
+        "rank": 95,
+        "username": "Jospem",
+        "title": "GM",
+        "score": 3141
+      },
+      {
+        "rank": 96,
+        "username": "Sanan_Sjugirov",
+        "title": "GM",
+        "score": 3140
+      },
+      {
+        "rank": 97,
+        "username": "MetiForce",
+        "title": "GM",
+        "score": 3139
+      },
+      {
+        "rank": 98,
+        "username": "Jakhongir-Vakhidov",
+        "title": "GM",
+        "score": 3138
+      },
+      {
+        "rank": 99,
+        "username": "tptagain",
+        "title": "GM",
+        "score": 3134
+      },
+      {
+        "rank": 100,
+        "username": "chito89",
+        "title": "GM",
+        "score": 3133
+      }
+    ]
+  }
+]
